@@ -95,7 +95,7 @@ PyYAML==3.12
 pyzmq==16.0.2
 redis==2.10.6
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 six==1.10.0
 snowballstemmer==1.2.1
 Sphinx==1.6.3
